@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PM 5:30",
+  "base_artist": "DISH//",
+  "createdAt": "2026-02-25T11:00:23.961611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5 pm",
+      "artist": "Die Happy",
+      "has_synced": true,
+      "path": "select/01_5_pm_Die_Happy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One PM Again",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/02_One_PM_Again_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dare (PM)",
+      "artist": "Namasenda",
+      "has_synced": false,
+      "path": "select/03_Dare_(PM)_Namasenda.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "9 PM (Til I Come)",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/04_9_PM_(Til_I_Come)_ATB.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "9 PM - Till I Come (Signum Remix)",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/05_9_PM_-_Till_I_Come_(Signum_Remix)_ATB.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9 PM (Till I Come)",
+      "artist": "ATB",
+      "has_synced": true,
+      "path": "select/06_9_PM_(Till_I_Come)_ATB.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "9 PM (Till I Come) (Signum remix)",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/07_9_PM_(Till_I_Come)_(Signum_remix)_ATB.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dallas 1 PM",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/08_Dallas_1_PM_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dallas 1 PM",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/09_Dallas_1_PM_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dallas 1 PM (live)",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/10_Dallas_1_PM_(live)_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "11:11 PM",
+      "artist": "The All‐American Rejects",
+      "has_synced": true,
+      "path": "select/11_11_11_PM_The_All‐American_Rejects.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Am/Pm",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/12_Am_Pm_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "AM\u0000PM",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/13_AM\u0000PM_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "9 PM [Till I Come] (Signum Mix)",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/14_9_PM_[Till_I_Come]_(Signum_Mix)_ATB.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "9 PM - Till I Come (Mixed)",
+      "artist": "ATB",
+      "has_synced": false,
+      "path": "select/15_9_PM_-_Till_I_Come_(Mixed)_ATB.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "11:11 PM",
+      "artist": "The All-American Rejects",
+      "has_synced": true,
+      "path": "select/16_11_11_PM_The_All-American_Rejects.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PM 5:30",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_PM_5_30_DISH.txt"
+    }
+  ]
+}
